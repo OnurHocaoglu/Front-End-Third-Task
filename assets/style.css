@@ -1,0 +1,53 @@
+header h1{
+    color: brown;
+
+}
+.bir-list{
+    position: absolute;
+    right: 40%;
+}
+.bir-list li{
+    float: left;
+    list-style: none;
+    text-decoration: underline;
+    padding-right: 5px;
+}
+#h3-1{
+    position: absolute;
+    right: 50%;
+    height: 3%;
+    background-color: brown;
+    border-radius: 10px;
+    color: white;
+}
+.iki-list{
+    position: absolute;
+    left: 25%;
+}
+.iki-list li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#h3-2{
+    position: absolute;
+    right: 59%;
+    top: 50%;
+    height: 3%;
+    background-color: brown;
+    border-radius: 10px;
+    color: white;
+}
+.uc-list{
+    margin-top: 0;
+    position: absolute;
+    left: 25%;
+    bottom: 20%;
+}
+.uc-list li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#h4 {
+    position: absolute;
+    bottom: 15%;
+    left: 70%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
